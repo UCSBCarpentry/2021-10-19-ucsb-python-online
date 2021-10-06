@@ -411,7 +411,7 @@ please preview your site before committing, and make sure to run
   <li> Verify the installation by opening the terminal and typing in <span style="font-family: monospace;">jupyter notebook</span> to launch a notebook </li>
 </ul>
   You can download the 
-<a href="https://ucsbcarpentry.github.io/2021-08-23-ucsb-python-online/data/portal-teachingdb-master.zip" download>data used for the workshop here</a>.
+<a href="https://datacarpentry.org/python-ecology-lesson/data/portal-teachingdb-master.zip" download>data used for the workshop here</a>.
   you will need access to software as described below.
   In addition, you will need an up-to-date web browser.
 </p>
