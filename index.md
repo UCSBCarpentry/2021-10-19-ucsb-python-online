@@ -408,7 +408,7 @@ please preview your site before committing, and make sure to run
   <li> <a href="https://www.anaconda.com/products/individual">Anaconda</a></li> 
   <li> <b>Windows</b>: Make sure that <b>Register Anaconda as my default Python 3.x</b> option is selected. It should be the latest version of Anaconda</li>
   <li> <b>Mac</b>:Make sure install location is set to <b>install only for me</b> so Anaconda will install files locally</li>
-  <li> Verify the installation by opening the terminal and typing in <span style="font-family: monospace;">jupyter notebook</span> to launch a notebook </li>
+  <li> Verify the installation by opening the terminal and typing in <span style="font-family: monospace;">jupyterlab</span> to launch a jupyter notebook </li>
 </ul>
   You can download the 
 <a href="https://datacarpentry.org/python-ecology-lesson/data/portal-teachingdb-master.zip" download>data used for the workshop here</a>.
