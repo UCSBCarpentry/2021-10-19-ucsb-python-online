@@ -16,7 +16,7 @@ title: Setup
 > - [portal_mammals.sqlite](https://ndownloader.figshare.com/files/11188550)
 >
 > Please download them (by clicking on the corresponding links) and move them to the same directory, or
-> [download all the files as a zip]({{ page.root }}/data/portal-teachingdb-master.zip)
+> [download all the files as a zip]({{ page.root }}/data/portal-teachingdb-master)
 > which will give you everything in a single compressed file. You'll need to unzip
 > this file after downloading it.
 {: .prereq}
