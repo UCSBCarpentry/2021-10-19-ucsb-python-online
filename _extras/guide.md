@@ -99,13 +99,13 @@ rev[2] = "apple-sauce"
 
 ### Calculating Statistics Challenges
 
-* Create a list of unique plot ID's found in the surveys data. Call it `plot_names`. How many unique
-  plots are in the data? How many unique species are in the data?
+* Create a list of unique site ID's found in the surveys data. Call it `site_names`. How many unique
+  sites are in the data? How many unique species are in the data?
 
-  `plot_names = pd.unique(surveys_df["plot_id"])` Number of unique plot ID's: `plot_names.size` or
-  `len(plot_names)`; Number of unique species in the data: `len(pd.unique(surveys_df["species"]))`
+  `site_names = pd.unique(surveys_df["plot_id"])` Number of unique plot ID's: `site_names.size` or
+  `len(site_names)`; Number of unique species in the data: `len(pd.unique(surveys_df["species"]))`
 
-* What is the difference between `len(plot_names)` and `surveys_df['plot_id'].nunique()`?
+* What is the difference between `len(site_names)` and `surveys_df['plot_id'].nunique()`?
 
   Both do result in the same output, making it alternative ways of getting the unique values.
   `nunique` combines the count and unique value extraction.
